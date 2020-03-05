@@ -42,9 +42,6 @@ UCI_get_data <- function(type) {
 tb1 <- rbind(UCI_get_data("train")
              , UCI_get_data("test"))
 
-
-t1 <- UCI_get_data("test")
-                   
 #-------------------------------------------------------------------------------------------
 # 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 #-------------------------------------------------------------------------------------------
