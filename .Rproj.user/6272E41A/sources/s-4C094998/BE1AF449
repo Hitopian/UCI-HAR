@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583396435630.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1698061925",
+    "id" : "BE1AF449",
+    "lastKnownWriteTime" : 1583432386,
+    "last_content_update" : 1583432386305,
+    "path" : "F:/OneDrive/Data Science/1° Data Science Specialization/03 - Getting and Cleaning Data/01-Reading_files.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "14,2",
+        "last_setup_crc32" : "4C094998130dcb34",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
